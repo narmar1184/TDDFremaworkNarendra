@@ -1,0 +1,5 @@
+base\BaseTest.class
+utilities\ConfigManager.class
+utilities\LoggerManager.class
+Pages\LoginPage.class
+utilities\ExcelReader.class
